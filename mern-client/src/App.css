@@ -1,0 +1,8 @@
+header, nav {
+    z-index: 100001 !important;
+  }
+  
+.blue-border{
+    border: 2px solid rgb(0, 132, 255);
+}
+
